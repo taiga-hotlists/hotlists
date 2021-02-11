@@ -70,7 +70,7 @@ h5,
 h6 {
   font-weight: 600;
   margin: 0px;
-  color: #081828;
+  color: #0c0058;
 }
 
 h1 a,
@@ -849,7 +849,7 @@ ol {
 
 /* Bread Crumbs */
 .breadcrumbs {
-  background-color: #081828;
+  background-color: #0c0058;
   position: relative;
   padding: 100px 0;
   padding-top: 180px;
@@ -1071,7 +1071,7 @@ ol {
   width: 100%;
   height: 100%;
   opacity: 0.4;
-  background: #081828;
+  background: #0c0058;
   content: "";
   -webkit-transition: all 0.4s ease;
   transition: all 0.4s ease;
@@ -1111,7 +1111,7 @@ ol {
 
 .pagination .pagination-list li a {
   background: #fff;
-  color: #081828;
+  color: #0c0058;
   padding: 0 22px;
   font-weight: 500;
   font-size: 13px;
@@ -1154,7 +1154,7 @@ ol {
 }
 
 .button .btn:hover {
-  background-color: #081828;
+  background-color: #0c0058;
   color: #fff;
   -webkit-box-shadow: 0 1rem 3rem rgba(35, 38, 45, 0.15) !important;
           box-shadow: 0 1rem 3rem rgba(35, 38, 45, 0.15) !important;
@@ -1163,7 +1163,7 @@ ol {
 }
 
 .button .btn-alt {
-  background-color: #081828;
+  background-color: #0c0058;
   color: #fff;
 }
 
@@ -1845,7 +1845,7 @@ ol {
 }
 
 .header.index2 .sticky .nav-item a {
-  color: #081828 !important;
+  color: #0c0058 !important;
 }
 
 .header.index2 .sticky .nav-item a:hover {
@@ -1909,7 +1909,7 @@ ol {
 }
 
 .header.index2 .navbar-nav .sub-menu li a {
-  color: #081828;
+  color: #0c0058;
 }
 
 .header.index2 .navbar-nav .sub-menu li a:hover {
@@ -1932,7 +1932,6 @@ ol {
 .hero-area {
   position: relative;
   background: #f6f9fc;
-  overflow: hidden;
   }
 
 .hero-area .hero-inner {
@@ -1941,8 +1940,6 @@ ol {
   background-position: center;
   position: relative;
   z-index: 3;
-  background-image:url("https://images.unsplash.com/photo-1432888498266-38ffec3eaf0a?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1353&q=80")
-
 }
 
 .hero-area .hero-inner::before {
@@ -1953,9 +1950,10 @@ ol {
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
+  background-image:url("https://images.unsplash.com/photo-1536854648217-bd6cef0e05bb?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=634&q=80");
   border-radius: 0;
   height: 100%;
-  top: -100px;
+  top: 250px;
   z-index: 1;
   border-radius: 0;
   height: 800px;
@@ -2218,7 +2216,7 @@ ol {
 }
 
 .single-service h3 a {
-  color: #081828;
+  color: #0c0058;
   font-size: 16px;
   font-weight: 600;
 }
@@ -2334,7 +2332,7 @@ ol {
 .services.index2 .review-content h3 {
   font-size: 32px;
   font-weight: 700;
-  color: #081828;
+  color: #0c0058;
 }
 
 .services.index2 .review-content ul {
@@ -2369,7 +2367,7 @@ ol {
   margin-top: 10px;
   margin-bottom: 20px;
   font-weight: 700;
-  color: #081828;
+  color: #0c0058;
   font-size: 28px;
   margin-top: 30px;
 }
@@ -2403,7 +2401,7 @@ ol {
 .service-details .service-category li a {
   padding: 15px 20px;
   background-color: #fff;
-  color: #081828;
+  color: #0c0058;
   display: block;
   border-radius: 5px;
 }
@@ -2449,7 +2447,7 @@ ol {
 }
 
 .about-us .about-left .about-tab .nav li a {
-  color: #081828;
+  color: #0c0058;
   border: none;
   padding: 0;
   padding: 10px 25px;
@@ -2467,7 +2465,7 @@ ol {
 
 .about-us .about-left .tab-content .content-heading {
   font-size: 16px;
-  color: #081828;
+  color: #0c0058;
   display: block;
   margin-bottom: 25px;
 }
@@ -2536,7 +2534,7 @@ ol {
 /* Index 4 */
 .about-us.index-4 .tab-content h3 {
   font-size: 15px;
-  color: #081828;
+  color: #0c0058;
   display: block;
   margin-bottom: 20px;
 }
@@ -2560,7 +2558,7 @@ ol {
 .about-us.index-4 .tab-content ul li span {
   display: inline-block;
   margin-right: 5px;
-  color: #081828;
+  color: #0c0058;
   font-weight: 500;
 }
 
@@ -2812,7 +2810,7 @@ ol {
 }
 
 .latest-news-area .single-news .content-body .title a {
-  color: #081828;
+  color: #0c0058;
 }
 
 .latest-news-area .single-news .content-body .title a:hover {
@@ -3062,7 +3060,7 @@ blockquote span {
   font-size: 13px;
   font-weight: 400;
   font-weight: 500;
-  color: #081828;
+  color: #0c0058;
 }
 
 .post-details .post-meta li a i {
@@ -3263,7 +3261,7 @@ blockquote span {
   border: none;
   background: #fff;
   font-size: 14px;
-  color: #081828;
+  color: #0c0058;
   padding: 0 25px;
   padding-left: 30px;
   padding-right: 50px;
@@ -3397,7 +3395,7 @@ blockquote span {
 }
 
 .sidebar .widget.search-widget form button:hover {
-  background-color: #081828;
+  background-color: #0c0058;
   color: #fff;
 }
 
@@ -3567,7 +3565,7 @@ blockquote span {
   width: 400px;
   border: none;
   background-color: #fff;
-  color: #081828;
+  color: #0c0058;
   border-radius: 30px;
   padding: 0px 30px;
   display: inline-block;
@@ -3602,7 +3600,7 @@ blockquote span {
 }
 
 .newsletter-area .mini-call-action h4 {
-  color: #081828;
+  color: #0c0058;
   margin-bottom: 20px;
   display: block;
   font-size: 18px;
@@ -3753,7 +3751,7 @@ blockquote span {
 	Footer CSS
 ========================================*/
 .footer {
-  background-color: #081828;
+  background-color: #0c0058;
   z-index: 2;
   position: relative;
 }
@@ -3966,7 +3964,7 @@ blockquote span {
     width: 130px;
   }
   .header.index2 .navbar .navbar-nav .nav-item a {
-    color: #081828;
+    color: #0c0058;
   }
   .header.index2 .navbar .navbar-nav .nav-item a::before {
     background-color: #FF6E6E;
@@ -3975,7 +3973,7 @@ blockquote span {
     background-color: #fff !important;
   }
   .header.index2 .sticky .navbar .navbar-toggler .toggler-icon {
-    background: #081828 !important;
+    background: #0c0058 !important;
   }
   .header .navbar-nav li .sub-menu {
     background: #fff;
@@ -4355,7 +4353,7 @@ blockquote span {
     width: 130px;
   }
   .header.index2 .navbar .navbar-nav .nav-item a {
-    color: #081828;
+    color: #0c0058;
   }
   .header.index2 .navbar .navbar-nav .nav-item a::before {
     background-color: #FF6E6E;
@@ -4364,7 +4362,7 @@ blockquote span {
     background-color: #fff !important;
   }
   .header.index2 .sticky .navbar .navbar-toggler .toggler-icon {
-    background: #081828 !important;
+    background: #0c0058 !important;
   }
   .header .navbar-nav li .sub-menu {
     background: #fff;
@@ -5041,7 +5039,7 @@ blockquote span {
   font-size: 30px;
   display: block;
   margin-bottom: 30px;
-  color: #081828;
+  color: #0c0058;
   font-weight: 700;
 }
 
