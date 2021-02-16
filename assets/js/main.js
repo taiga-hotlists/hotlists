@@ -3,6 +3,7 @@ Template Name: Massive
 Author: GrayGrids
 */
 
+(function () {
     /*=====================================
     Sticky
     ======================================= */
@@ -91,3 +92,14 @@ Author: GrayGrids
     });
     cu.start();
 })();
+
+/* On hover of article img, active hover */
+$( document ).ready(function() {
+    $('.latest-news-area .single-news .content-body .title a').hover(function() {
+        console.log($(this).parents().eq(2).find('.image a'));
+      $(this).parents().eq(2).find('.image a').addClass('highlighted');
+    }, function() {
+      // on mouseout, reset the background colour
+      $(this).parents().eq(2).find('.image a').removeClass('highlighted');
+    });
+});
