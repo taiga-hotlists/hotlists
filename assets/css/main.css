@@ -2766,13 +2766,36 @@ ol {
 /*======================================
     Blog CSS
 ========================================*/
+.latest-news-area .featured-heading {
+  border-color: #0c0058;
+    border-style: solid;
+    border-width: 0 0 0 10px;
+}
+.latest-news-area .featured-heading h1 {
+  padding-bottom: 4px;
+    padding-left: 25px;
+    font-size: 55px;
+}
+.latest-news-area .single-news.featured-article {
+border-width: 0 5px 0 0;
+color: #0c0058;
+border-style: solid;
+padding-right: 10px;
+}
+.latest-news-area hr {
+  height: 5px;
+  color: #0c0058;
+  opacity: 1;
+  width: 98%;
+}
 .latest-news-area .single-news .image {
   position: relative;
   border-radius: 4px;
   overflow: hidden;
-  max-height: 416px;
 }
-
+.latest-news-area .single-news .image a  {
+  display: block;
+}
 .latest-news-area .single-news .image img {
   height: 100%;
   width: 100%;
@@ -2780,6 +2803,7 @@ ol {
   transition: all 0.15s ease;
 }
 .latest-news-area .single-news .image img  {
+  object-fit: cover;
   transition: filter .2s ease-in-out;
   -webkit-filter: grayscale(0%); /* Ch 23+, Saf 6.0+, BB 10.0+ */
   filter: grayscale(0%); /* FF 35+ */
