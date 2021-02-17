@@ -97,7 +97,13 @@ Author: GrayGrids
 $( document ).ready(function() {
 
     /* rellax */
-    var rellax = new Rellax('.rellax');
+    function myFunction(x) {
+        if (x.matches) { // If media query matches
+            var rellax = new Rellax('.rellax');
+        } 
+      }
+      var x = window.matchMedia("(min-width: 991px)")
+      myFunction(x) // Call listener function at run time
 
     /*article hover */
     $('.latest-news-area .single-news .content-body .title a').hover(function() {
