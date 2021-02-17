@@ -2776,13 +2776,13 @@ ol {
     font-size: 55px;
 }
 .latest-news-area .single-news.featured-article {
-border-width: 0 5px 0 0;
+border-width: 0 3px 0 0;
 border-color: #6B00B8;
 border-style: solid;
 padding-right: 10px;
 }
 .latest-news-area hr {
-  height: 5px;
+  height: 3px;
   color: #6B00B8;
   opacity: 1;
   width: 98%;
