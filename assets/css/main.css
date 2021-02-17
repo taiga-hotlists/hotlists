@@ -862,17 +862,17 @@ ol {
 
 .breadcrumbs .breadcrumbs-content p {
   color: #fff;
-  font-size: 14px;
+  font-size: 18px;
   margin-top: 20px;
 }
 
 .breadcrumbs .breadcrumbs-content .page-title {
-  font-size: 35px;
+  font-size: 60px;
   color: #fff;
   font-weight: 500;
   position: relative;
   padding-bottom: 22px;
-  line-height: 50px;
+  line-height: 80px;
 }
 
 .breadcrumbs .breadcrumbs-content .page-title:before {
@@ -1466,7 +1466,7 @@ ol {
 }
 
 .navbar-brand img {
-  width: 400px;
+  width: 375px;
   padding: 20px;
 }
 
@@ -2932,7 +2932,7 @@ padding-right: 10px;
 }
 
 .post-details .post-title a {
-  font-size: 23px;
+  font-size: 36px;
   font-weight: 600;
 }
 
@@ -3063,6 +3063,7 @@ blockquote span {
   margin-bottom: 20px;
   font-weight: 500;
   font-size: 17px;
+  text-align: left;
 }
 
 .post-details .post-tags-media .post-social-media ul {
@@ -3072,10 +3073,10 @@ blockquote span {
 }
 
 .post-details .post-tags-media .post-social-media ul > li > a {
-  font-size: 18px;
+  font-size: 39px;
   color: #7184AD;
   height: 40px;
-  width: 40px;
+  width: 60px;
   line-height: 40px;
 }
 
