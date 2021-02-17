@@ -70,7 +70,7 @@ h5,
 h6 {
   font-weight: 600;
   margin: 0px;
-  color: #4B33FF;
+  color: #6B00B8;
 }
 
 h1 a,
@@ -849,7 +849,7 @@ ol {
 
 /* Bread Crumbs */
 .breadcrumbs {
-  background-color: #4B33FF;
+  background-color: #6B00B8;
   position: relative;
   padding: 100px 0;
   padding-top: 180px;
@@ -1071,7 +1071,7 @@ ol {
   width: 100%;
   height: 100%;
   opacity: 0.4;
-  background: #4B33FF;
+  background: #6B00B8;
   content: "";
   -webkit-transition: all 0.4s ease;
   transition: all 0.4s ease;
@@ -1111,7 +1111,7 @@ ol {
 
 .pagination .pagination-list li a {
   background: #fff;
-  color: #4B33FF;
+  color: #6B00B8;
   padding: 0 22px;
   font-weight: 500;
   font-size: 13px;
@@ -1153,7 +1153,7 @@ ol {
 }
 
 .button .btn:hover {
-  background-color: #4B33FF;
+  background-color: #6B00B8;
   color: #fff;
   -webkit-box-shadow: 0 1rem 3rem rgba(35, 38, 45, 0.15) !important;
           box-shadow: 0 1rem 3rem rgba(35, 38, 45, 0.15) !important;
@@ -1162,7 +1162,7 @@ ol {
 }
 
 .button .btn-alt {
-  background-color: #4B33FF;
+  background-color: #6B00B8;
   color: #fff;
 }
 
@@ -1845,7 +1845,7 @@ ol {
 }
 
 .header.index2 .sticky .nav-item a {
-  color: #4B33FF !important;
+  color: #6B00B8 !important;
 }
 
 .header.index2 .sticky .nav-item a:hover {
@@ -1909,7 +1909,7 @@ ol {
 }
 
 .header.index2 .navbar-nav .sub-menu li a {
-  color: #4B33FF;
+  color: #6B00B8;
 }
 
 .header.index2 .navbar-nav .sub-menu li a:hover {
@@ -2216,7 +2216,7 @@ ol {
 }
 
 .single-service h3 a {
-  color: #4B33FF;
+  color: #6B00B8;
   font-size: 16px;
   font-weight: 600;
 }
@@ -2332,7 +2332,7 @@ ol {
 .services.index2 .review-content h3 {
   font-size: 32px;
   font-weight: 700;
-  color: #4B33FF;
+  color: #6B00B8;
 }
 
 .services.index2 .review-content ul {
@@ -2367,7 +2367,7 @@ ol {
   margin-top: 10px;
   margin-bottom: 20px;
   font-weight: 700;
-  color: #4B33FF;
+  color: #6B00B8;
   font-size: 28px;
   margin-top: 30px;
 }
@@ -2401,7 +2401,7 @@ ol {
 .service-details .service-category li a {
   padding: 15px 20px;
   background-color: #fff;
-  color: #4B33FF;
+  color: #6B00B8;
   display: block;
   border-radius: 5px;
 }
@@ -2447,7 +2447,7 @@ ol {
 }
 
 .about-us .about-left .about-tab .nav li a {
-  color: #4B33FF;
+  color: #6B00B8;
   border: none;
   padding: 0;
   padding: 10px 25px;
@@ -2465,7 +2465,7 @@ ol {
 
 .about-us .about-left .tab-content .content-heading {
   font-size: 16px;
-  color: #4B33FF;
+  color: #6B00B8;
   display: block;
   margin-bottom: 25px;
 }
@@ -2534,7 +2534,7 @@ ol {
 /* Index 4 */
 .about-us.index-4 .tab-content h3 {
   font-size: 15px;
-  color: #4B33FF;
+  color: #6B00B8;
   display: block;
   margin-bottom: 20px;
 }
@@ -2558,7 +2558,7 @@ ol {
 .about-us.index-4 .tab-content ul li span {
   display: inline-block;
   margin-right: 5px;
-  color: #4B33FF;
+  color: #6B00B8;
   font-weight: 500;
 }
 
@@ -2766,7 +2766,7 @@ ol {
     Blog CSS
 ========================================*/
 .latest-news-area .featured-heading {
-  border-color: #4B33FF;
+  border-color: #6B00B8;
     border-style: solid;
     border-width: 0 0 0 10px;
 }
@@ -2777,13 +2777,13 @@ ol {
 }
 .latest-news-area .single-news.featured-article {
 border-width: 0 5px 0 0;
-border-color: #4B33FF;
+border-color: #6B00B8;
 border-style: solid;
 padding-right: 10px;
 }
 .latest-news-area hr {
   height: 5px;
-  color: #4B33FF;
+  color: #6B00B8;
   opacity: 1;
   width: 98%;
 }
@@ -3153,7 +3153,7 @@ blockquote span {
   font-size: 13px;
   font-weight: 400;
   font-weight: 500;
-  color: #4B33FF;
+  color: #6B00B8;
 }
 
 .post-details .post-meta li a i {
@@ -3354,7 +3354,7 @@ blockquote span {
   border: none;
   background: #fff;
   font-size: 14px;
-  color: #4B33FF;
+  color: #6B00B8;
   padding: 0 25px;
   padding-left: 30px;
   padding-right: 50px;
@@ -3488,7 +3488,7 @@ blockquote span {
 }
 
 .sidebar .widget.search-widget form button:hover {
-  background-color: #4B33FF;
+  background-color: #6B00B8;
   color: #fff;
 }
 
@@ -3658,7 +3658,7 @@ blockquote span {
   width: 400px;
   border: none;
   background-color: #fff;
-  color: #4B33FF;
+  color: #6B00B8;
   padding: 0px 30px;
   display: inline-block;
 }
@@ -3843,7 +3843,7 @@ blockquote span {
 	Footer CSS
 ========================================*/
 .footer {
-  background-color: #4B33FF;
+  background-color: #6B00B8;
   z-index: 2;
   position: relative;
 }
@@ -4057,7 +4057,7 @@ blockquote span {
     padding: 0px;
   }
   .header.index2 .navbar .navbar-nav .nav-item a {
-    color: #4B33FF;
+    color: #6B00B8;
   }
   .header.index2 .navbar .navbar-nav .nav-item a::before {
     background-color: #FF6E6E;
@@ -4066,7 +4066,7 @@ blockquote span {
     background-color: #fff !important;
   }
   .header.index2 .sticky .navbar .navbar-toggler .toggler-icon {
-    background: #4B33FF !important;
+    background: #6B00B8 !important;
   }
   .header .navbar-nav li .sub-menu {
     background: #fff;
@@ -4447,7 +4447,7 @@ blockquote span {
     padding: 0px;
   }
   .header.index2 .navbar .navbar-nav .nav-item a {
-    color: #4B33FF;
+    color: #6B00B8;
   }
   .header.index2 .navbar .navbar-nav .nav-item a::before {
     background-color: #FF6E6E;
@@ -4456,7 +4456,7 @@ blockquote span {
     background-color: #fff !important;
   }
   .header.index2 .sticky .navbar .navbar-toggler .toggler-icon {
-    background: #4B33FF !important;
+    background: #6B00B8 !important;
   }
   .header .navbar-nav li .sub-menu {
     background: #fff;
@@ -5134,7 +5134,7 @@ blockquote span {
   font-size: 30px;
   display: block;
   margin-bottom: 30px;
-  color: #4B33FF;
+  color: #6B00B8;
   font-weight: 700;
 }
 
